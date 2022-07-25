@@ -1,2 +1,3 @@
 Entendendo o hash
 fdsgdg
+esta linha foi modificada no ramo master
